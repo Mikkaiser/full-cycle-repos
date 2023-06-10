@@ -1,0 +1,3 @@
+[submodule "ci-cd-fc"]
+	path = ci-cd-fc
+	url = git@github.com:Mikkaiser/ci-cd-fc.git
